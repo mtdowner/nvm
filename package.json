@@ -47,5 +47,8 @@
     "replace": "^1.2.1",
     "semver": "^7.3.5",
     "urchin": "^0.0.5"
+  },
+  "dependencies": {
+    "commander": "^9.3.0"
   }
 }
